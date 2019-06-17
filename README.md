@@ -1,5 +1,10 @@
 # resk
 
+
+ 以下为[码云](https://gitee.com) README 模板，后续更新
+ 
+---
+
 #### 介绍
 resk read envelope seckill 红包秒杀系统
 
